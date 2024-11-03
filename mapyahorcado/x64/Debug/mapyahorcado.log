@@ -1,0 +1,4 @@
+﻿  mapahorchado.cpp
+C:\Users\yukik\Desktop\MapYAhorcado\mapyahorcado\mapahorchado.cpp(41,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\yukik\Desktop\MapYAhorcado\mapyahorcado\mapahorchado.cpp(78,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+  mapyahorcado.vcxproj -> C:\Users\yukik\Desktop\MapYAhorcado\x64\Debug\mapyahorcado.exe
